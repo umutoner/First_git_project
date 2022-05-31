@@ -1,2 +1,5 @@
 hello,git.
 multiple line.
+now we have another line..
+again
+focus here
